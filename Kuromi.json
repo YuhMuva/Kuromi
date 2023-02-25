@@ -60,8 +60,8 @@
       "#BEA5C9"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#DBC3E2",
-      "#DBC3E2"
+      "#EAE6F1",
+      "#EAE6F1"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#DBC3E2",
@@ -110,7 +110,7 @@
     "PRIMARY_DARK_300": "#372D2C",
     "PRIMARY_DARK_360": "#372D2C",
     "PRIMARY_DARK_400": "#372D2C",
-    "PRIMARY_DARK_500": "#DBC3E2",
+    "PRIMARY_DARK_500": "#EAE6F1",
     "PRIMARY_DARK_600": "#DBC3E2",
     "PRIMARY_DARK_630": "#BEA5C9",
     "PRIMARY_DARK_700": "#BEA5C9",
