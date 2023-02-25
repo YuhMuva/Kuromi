@@ -1,0 +1,124 @@
+{
+  "name": "Kuromi",
+  "author": "YuhMuva#1799",
+  "version": "1",
+  "description": "A theme dedicated to Kuromi (And Femboys)",
+  "authors": [
+    {
+      "name": "YuhMuva",
+      "id": "359111312418275349"
+    }
+  ],
+  "background": {
+    "blur": "2",
+    "url": "https://64.media.tumblr.com/59b9add2319e211ffd6850b28ea0fc9f/1f241b2bac67839d-88/s1280x1920/ec6aa5ed61770c34f2e8b34ee4c0c98a86a30204.jpg",
+    "alpha": "0.69"
+  },
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#413538",
+      "#413538"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#413538",
+      "#413538"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#413538",
+      "#413538"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#413538",
+      "#413538"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#DBC3E2",
+      "#DBC3E2"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#BEA5C9",
+      "#BEA5C9"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#DBC3E2",
+      "#DBC3E2"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#DBC3E2",
+      "#DBC3E2"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#302525",
+      "#302525"
+    ],
+    "HEADER_PRIMARY": [
+      "#302525",
+      "#302525"
+    ],
+    "HEADER_SECONDARY": [
+      "#302525",
+      "#302525"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#302525",
+      "#302525"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#DBC3E2",
+      "#DBC3E2"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#302525",
+      "#302525"
+    ],
+    "TEXT_LINK": [
+      "#797477",
+      "#797477"
+    ],
+    "TEXT_MUTED": [
+      "#372D2C",
+      "#372D2C"
+    ],
+    "TEXT_NORMAL": [
+      "#372D2C",
+      "#372D2C"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#372D2C",
+    "PRIMARY_DARK_100": "#372D2C",
+    "PRIMARY_DARK_300": "#372D2C",
+    "PRIMARY_DARK_360": "#372D2C",
+    "PRIMARY_DARK_400": "#372D2C",
+    "PRIMARY_DARK_500": "#DBC3E2",
+    "PRIMARY_DARK_600": "#BEA5C9",
+    "PRIMARY_DARK_630": "#BEA5C9",
+    "PRIMARY_DARK_700": "#BEA5C9",
+    "PRIMARY_DARK_800": "#BEA5C9",
+    "BRAND_NEW": "#FFFFFF",
+    "WHITE": "#DBC3E2"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#DBC3E2"
+  }
+}
