@@ -32,16 +32,16 @@
       "#BEA5C9"
     ],
     "BACKGROUND_TERTIARY": [
-      "#DBC3E2",
-      "#DBC3E2"
-    ],
-    "BACKGROUND_ACCENT": [
       "#BEA5C9",
       "#BEA5C9"
     ],
+    "BACKGROUND_ACCENT": [
+      "#DBC3E2",
+      "#DBC3E2"
+    ],
     "BACKGROUND_FLOATING": [
-      "#413538",
-      "#413538"
+      "#DBC3E2",
+      "#DBC3E2"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#BEA5C9",
@@ -76,8 +76,8 @@
       "#302525"
     ],
     "HEADER_SECONDARY": [
-      "#302525",
-      "#302525"
+      "#DBC3E2",
+      "#DBC3E2"
     ],
     "INTERACTIVE_ACTIVE": [
       "#302525",
