@@ -24,8 +24,8 @@
       "#BEA5C9"
     ],
     "BACKGROUND_SECONDARY": [
-      "#BEA5C9",
-      "#BEA5C9"
+      "#DBC3E2",
+      "#DBC3E2"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#BEA5C9",
@@ -76,8 +76,8 @@
       "#302525"
     ],
     "HEADER_SECONDARY": [
-      "#DBC3E2",
-      "#DBC3E2"
+      "#EAE6F1",
+      "#EAE6F1"
     ],
     "INTERACTIVE_ACTIVE": [
       "#302525",
@@ -92,8 +92,8 @@
       "#302525"
     ],
     "TEXT_LINK": [
-      "#DBC3E2",
-      "#DBC3E2"
+      "#302525",
+      "#302525"
     ],
     "TEXT_MUTED": [
       "#372D2C",
@@ -116,7 +116,7 @@
     "PRIMARY_DARK_700": "#BEA5C9",
     "PRIMARY_DARK_800": "#BEA5C9",
     "BRAND_NEW": "#302525",
-    "WHITE": "#DBC3E2"
+    "WHITE": "#302525"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#DBC3E2"
